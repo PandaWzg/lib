@@ -1,0 +1,7 @@
+<?php
+/**
+ * memcache
+ */
+class Memcache{
+
+}
